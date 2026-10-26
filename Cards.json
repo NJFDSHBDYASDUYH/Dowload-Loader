@@ -1,5 +1,10 @@
 [
   {
+    "nome": "Codigo de logica",
+    "link": "https://raw.githubusercontent.com/LFB2010/logica-de-programacao/refs/heads/main/4_bimestre/matriz.py",
+    "data_update": "26/10/2026"
+  },
+  {
     "nome": "7zip portable",
     "link": "https://cdn.discordapp.com/attachments/1541489279065133097/1541505976379641929/7-zip-portable-26-2-0-0.exe?ex=6ae0e550&is=6adf93d0&hm=496e65d7cb1da1516733c868e5b1876179e6953c05629d985995d0b7356db470&",
     "data_update": "26/10/2026"
@@ -23,11 +28,10 @@
     "data_update": "26/10/2026"
   },
 
-  
-  
-  {
-    "nome": "Codigo de logica",
-    "link": "https://raw.githubusercontent.com/LFB2010/logica-de-programacao/refs/heads/main/4_bimestre/matriz.py",
+   {
+    "nome": "PEAK",
+    "link": "https://gofile.io/d/0gnxFovb",
     "data_update": "26/10/2026"
   }
+  
 ]
